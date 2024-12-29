@@ -1,12 +1,10 @@
-# Last.fm Discord Bot
+# Bot Semaninha
 
-This is a Discord bot that interacts with Last.fm API to fetch and display the user's most played tracks and albums over the past week. It can send a collage of the user's top albums in the last 7 days to the Discord channel.
+This is a Discord bot that interacts with Last.fm API to fetch and display the user's most played albums over the past week. It can send a collage of the user's top albums in the last 7 days to the Discord channel.
 
 ## Features
 
-- **Get the most recent track**: Fetch the last played track by a specific user.
 - **Top albums in the last 7 days**: Generate and send a collage of the top 25 albums played by a user in the last 7 days.
-- **Display album details**: Shows album name, artist name, and album cover.
 
 ## Prerequisites
 
