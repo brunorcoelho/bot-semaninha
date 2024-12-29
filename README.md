@@ -21,8 +21,8 @@ Before you can use the bot, you'll need:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/brunorcoelho/lastfm-discord-bot.git
-cd lastfm-discord-bot
+git clone https://github.com/brunorcoelho/bot-semaninha.git
+cd bot-semaninha
 ```
 
 ### 2. Install dependencies
@@ -69,7 +69,7 @@ Generates and sends a collage of the top 25 albums played in the last 7 days by 
 
 Example:
 ```bash
-/semaninha nome-do-usuário: bruno
+/semaninha nome-do-usuário: bruno090904
 ```
 
 ## Development
@@ -90,7 +90,3 @@ Example:
 
 3. **Bot not responding**:
    - Double-check that your bot has the necessary permissions to read and send messages in your Discord server.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
